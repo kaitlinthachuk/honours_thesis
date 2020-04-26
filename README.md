@@ -1,4 +1,4 @@
-# honours_thesis
+# Honours Thesis
 This is the project I did to fulfill my requirements for my undergraduate honours thesis.
 
 This project requires PyBullet which can be installed in the following ways according to which Python version you are running.
