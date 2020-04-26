@@ -1,5 +1,5 @@
 # Honours Thesis
-This is the project I did to fulfill my requirements for my undergraduate honours thesis.
+This is the project I did to fulfill the requirements for my Bachelor's degree in Combined Honours Computer Science and Physics at the University of British Columbia.
 
 This project requires PyBullet which can be installed in the following ways according to which Python version you are running.
 
