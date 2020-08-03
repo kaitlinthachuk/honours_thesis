@@ -22,4 +22,4 @@ python -i 2D_biped_using_SIMBICON.py
 ```
 A GUI should pop up where you will see the legs.xml specified body fall into the world and begin walking. The `-i` allows you to interact with 
 the legs and the GUI once the script starts running. If you would like to play around with the simulation try changing the target angles and PD
-controller constants to see what they do! A full disscussion of the theory behind the project can be found [here](https://github.com/kaitlinthachuk/honours_thesis/blob/master/KaitlinThachuk_CPSC449Thesis.pdf).
+controller constants to see what they do! A full disscussion of the theory behind the project can be found [here](https://github.com/kaitlinthachuk/honours_thesis/blob/master/KaitlinThachuk_CPSC449Thesis.pdf). The PDF features imbedded videos which require a newer version of Adobe Acrobat to view. The embedded videos are Flash based, as of December 31, 2020 Flash will be phased out. The original mp4 videos have therefore been added to the repository for viewing after they are no longer viewable in the PDF.
